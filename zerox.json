@@ -18,21 +18,5 @@
     "freeKeyCooldownHours": 24
   },
   "resellers": {},
-  "keys": {
-    "ZEROX-GI2F-XYQZ": {
-      "tier": "VIP lifetime",
-      "durationHours": 24,
-      "isActivated": false,
-      "activatedAt": null,
-      "expires": "Not Activated",
-      "status": "active",
-      "hwid": null,
-      "activeDevices": [],
-      "deviceLimit": 1,
-      "notes": "Quick generated key",
-      "seller": "ZEROX PANEL",
-      "createdBy": "Owner",
-      "createdAt": "2026-11-27T12:32:03.074Z"
-    }
-  }
+  "keys": {}
 }
