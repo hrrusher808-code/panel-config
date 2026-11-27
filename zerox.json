@@ -44,12 +44,14 @@
     "ZEROX-4E4J-9NF1": {
       "tier": "2-Day Pass",
       "durationHours": 48,
-      "isActivated": false,
-      "activatedAt": null,
-      "expires": "Not Activated",
+      "isActivated": true,
+      "activatedAt": "2026-11-27T13:38:58.939Z",
+      "expires": "2026-11-29T13:38:58.939Z",
       "status": "active",
-      "hwid": null,
-      "activeDevices": [],
+      "hwid": "e24895a331fe888b",
+      "activeDevices": [
+        "e24895a331fe888b"
+      ],
       "deviceLimit": 1,
       "notes": "",
       "seller": "ZEROX PANEL OFFICIAL",
