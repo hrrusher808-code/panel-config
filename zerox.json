@@ -76,12 +76,14 @@
     "ZEROX-NAFZ-XO0U": {
       "tier": "1-Day Pass",
       "durationHours": 24,
-      "isActivated": false,
-      "activatedAt": null,
-      "expires": "Not Activated",
+      "isActivated": true,
+      "activatedAt": "2026-11-27T14:40:42.063Z",
+      "expires": "2026-11-28T14:40:42.063Z",
       "status": "active",
-      "hwid": null,
-      "activeDevices": [],
+      "hwid": "9ebcc5a8b3b3230b",
+      "activeDevices": [
+        "9ebcc5a8b3b3230b"
+      ],
       "deviceLimit": 1,
       "notes": "",
       "seller": "ZEROX PANEL OFFICIAL",
