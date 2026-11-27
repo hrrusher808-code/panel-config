@@ -61,12 +61,14 @@
     "ZEROX-0QQ4-QY82": {
       "tier": "1-Day Pass",
       "durationHours": 24,
-      "isActivated": false,
-      "activatedAt": null,
-      "expires": "Not Activated",
+      "isActivated": true,
+      "activatedAt": "2026-11-27T16:32:58.040Z",
+      "expires": "2026-11-28T16:32:58.040Z",
       "status": "active",
-      "hwid": null,
-      "activeDevices": [],
+      "hwid": "86119bf89c986251",
+      "activeDevices": [
+        "86119bf89c986251"
+      ],
       "deviceLimit": 1,
       "notes": "",
       "seller": "ZEROX PANEL OFFICIAL",
