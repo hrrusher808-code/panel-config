@@ -40,6 +40,21 @@
       "seller": "XCC",
       "createdBy": "Owner",
       "createdAt": "2026-11-27T13:14:52.666Z"
+    },
+    "ZEROX-4E4J-9NF1": {
+      "tier": "2-Day Pass",
+      "durationHours": 48,
+      "isActivated": false,
+      "activatedAt": null,
+      "expires": "Not Activated",
+      "status": "active",
+      "hwid": null,
+      "activeDevices": [],
+      "deviceLimit": 1,
+      "notes": "",
+      "seller": "ZEROX PANEL OFFICIAL",
+      "createdBy": "Owner",
+      "createdAt": "2026-11-27T13:35:25.094Z"
     }
   }
 }
