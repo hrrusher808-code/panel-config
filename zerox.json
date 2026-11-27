@@ -27,12 +27,14 @@
     "XXX": {
       "tier": "1-Day Pass",
       "durationHours": 24,
-      "isActivated": false,
-      "activatedAt": null,
-      "expires": "Not Activated",
+      "isActivated": true,
+      "activatedAt": "2026-11-27T13:15:01.988Z",
+      "expires": "2026-11-28T13:15:01.988Z",
       "status": "active",
-      "hwid": null,
-      "activeDevices": [],
+      "hwid": "8043f0f6db2222c8",
+      "activeDevices": [
+        "8043f0f6db2222c8"
+      ],
       "deviceLimit": 1,
       "notes": "XXX",
       "seller": "XCC",
