@@ -95,12 +95,14 @@
     "TEST": {
       "tier": "1-Day Pass",
       "durationHours": 24,
-      "isActivated": false,
-      "activatedAt": null,
-      "expires": "Not Activated",
+      "isActivated": true,
+      "activatedAt": "2026-11-27T17:03:59.933Z",
+      "expires": "2026-11-28T17:03:59.933Z",
       "status": "active",
-      "hwid": null,
-      "activeDevices": [],
+      "hwid": "c86a2c16fcadceac",
+      "activeDevices": [
+        "c86a2c16fcadceac"
+      ],
       "deviceLimit": "unlimited",
       "notes": "",
       "seller": "ZEROX PANEL OFFICIAL",
