@@ -23,5 +23,21 @@
     "bodyOffsets": "[\n  {\n    \"offset\": 28528,\n    \"hex\": \"0x06F70\",\n    \"length\": 4,\n    \"orry\": \"A158C305\",\n    \"chest\": \"241A5678\",\n    \"name\": \"Male_CutHeadToHips\"\n  },\n  {\n    \"offset\": 28852,\n    \"hex\": \"0x070B4\",\n    \"length\": 14,\n    \"orry\": \"626F6E655F526967687448616E64\",\n    \"chest\": \"626F6E655F526967687448656164\",\n    \"name\": \"Male_RightHandToHead\"\n  },\n  {\n    \"offset\": 30104,\n    \"hex\": \"0x07598\",\n    \"length\": 20,\n    \"orry\": \"0F000000626F6E655F486970735F44756D6D7900\",\n    \"chest\": \"0E000000626F6E655F486970735F486561640000\",\n    \"name\": \"Male_HipsDummyToHead\"\n  },\n  {\n    \"offset\": 31656,\n    \"hex\": \"0x07BA8\",\n    \"length\": 13,\n    \"orry\": \"626F6E655F4C65667448616E64\",\n    \"chest\": \"626F6E655F4C65667448656164\",\n    \"name\": \"Male_LeftHandToHead\"\n  },\n  {\n    \"offset\": 42100,\n    \"hex\": \"0x0A474\",\n    \"length\": 4,\n    \"orry\": \"A158C305\",\n    \"chest\": \"241A5678\",\n    \"name\": \"Female_CutHeadToHips\"\n  },\n  {\n    \"offset\": 42280,\n    \"hex\": \"0x0A528\",\n    \"length\": 14,\n    \"orry\": \"626F6E655F526967687448616E64\",\n    \"chest\": \"626F6E655F526967687448656164\",\n    \"name\": \"Female_RightHandToHead\"\n  },\n  {\n    \"offset\": 44872,\n    \"hex\": \"0x0AF48\",\n    \"length\": 13,\n    \"orry\": \"626F6E655F4C65667448616E64\",\n    \"chest\": \"626F6E655F4C65667448656164\",\n    \"name\": \"Female_LeftHandToHead\"\n  }\n]"
   },
   "resellers": {},
-  "keys": {}
+  "keys": {
+    "XXX": {
+      "tier": "1-Day Pass",
+      "durationHours": 24,
+      "isActivated": false,
+      "activatedAt": null,
+      "expires": "Not Activated",
+      "status": "active",
+      "hwid": null,
+      "activeDevices": [],
+      "deviceLimit": 1,
+      "notes": "XXX",
+      "seller": "XCC",
+      "createdBy": "Owner",
+      "createdAt": "2026-11-27T13:14:52.666Z"
+    }
+  }
 }
