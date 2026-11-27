@@ -15,7 +15,12 @@
     "free_claims": {},
     "free_sessions": {},
     "freeKeySecret": "ZEROX_FREE_PASS_2026",
-    "freeKeyCooldownHours": 24
+    "freeKeyCooldownHours": 24,
+    "getKeyUrl": "",
+    "neckOffsets": "[\n  {\n    \"offset\": 28512,\n    \"hex\": \"0x06F60\",\n    \"length\": 9,\n    \"orry\": \"626F6E655F48656164\",\n    \"chest\": \"626F6E655F4E65636B\",\n    \"name\": \"PrimaryAvatar_HeadToNeck\"\n  },\n  {\n    \"offset\": 29004,\n    \"hex\": \"0x0714C\",\n    \"length\": 68,\n    \"orry\": \"4C7B5ABD0A5766BB1E2148BA2AC2CF3B96FB283DE8B117BDE3997F3F0400803F0100803FFCFF7F3F10000000626F6E655F4C6566745F576561706F6E23AAA6B8460ACD70\",\n    \"chest\": \"E774BDBE16DC98BDBB8297B400000000BFB22F3F4332733666037B350100C03F0100C03F0100C03F10000000626F6E655F486561640000000000000023AAA6B8B2F71FA4\",\n    \"name\": \"MaleAvatar_LeftWeaponToHeadHitbox_1.5x\"\n  },\n  {\n    \"offset\": 42432,\n    \"hex\": \"0x0A5C0\",\n    \"length\": 68,\n    \"orry\": \"477B5ABDAE5766BB5C1F48BA1BC0CF3B9CFB283DA2B117BDE4997F3F0400803F0000803FFEFF7F3F10000000626F6E655F4C6566745F576561706F6E23AAA6B8460ACD70\",\n    \"chest\": \"E774BDBE16DC98BDBB8297B400000000BFB22F3F4332733666037B350100C03F0100C03F0100C03F10000000626F6E655F486561640000000000000023AAA6B8B2F71FA4\",\n    \"name\": \"FemaleAvatar_LeftWeaponToHeadHitbox_1.5x\"\n  }\n]",
+    "chamsPinkRules": "A",
+    "chams3dRules": "",
+    "bodyOffsets": ""
   },
   "resellers": {},
   "keys": {}
