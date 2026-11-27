@@ -13,7 +13,9 @@
     "enableChamsPink": true,
     "enableChams3d": true,
     "free_claims": {},
-    "free_sessions": {}
+    "free_sessions": {},
+    "freeKeySecret": "ZEROX_FREE_PASS_2026",
+    "freeKeyCooldownHours": 24
   },
   "resellers": {},
   "keys": {
@@ -31,6 +33,21 @@
       "seller": "ZEROX PANEL",
       "createdBy": "Owner",
       "createdAt": "2026-11-27T12:32:01.645Z"
+    },
+    "ZEROX-GI2F-XYQZ": {
+      "tier": "VIP lifetime",
+      "durationHours": 24,
+      "isActivated": false,
+      "activatedAt": null,
+      "expires": "Not Activated",
+      "status": "active",
+      "hwid": null,
+      "activeDevices": [],
+      "deviceLimit": 1,
+      "notes": "Quick generated key",
+      "seller": "ZEROX PANEL",
+      "createdBy": "Owner",
+      "createdAt": "2026-11-27T12:32:03.074Z"
     }
   }
 }
