@@ -19,21 +19,6 @@
   },
   "resellers": {},
   "keys": {
-    "ZEROX-5J9P-RKNL": {
-      "tier": "VIP 24",
-      "durationHours": 576,
-      "isActivated": false,
-      "activatedAt": null,
-      "expires": "Not Activated",
-      "status": "active",
-      "hwid": null,
-      "activeDevices": [],
-      "deviceLimit": 1,
-      "notes": "Quick generated key",
-      "seller": "ZEROX PANEL",
-      "createdBy": "Owner",
-      "createdAt": "2026-11-27T12:32:01.645Z"
-    },
     "ZEROX-GI2F-XYQZ": {
       "tier": "VIP lifetime",
       "durationHours": 24,
