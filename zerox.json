@@ -91,6 +91,21 @@
       "seller": "ZEROX PANEL OFFICIAL",
       "createdBy": "Owner",
       "createdAt": "2026-11-27T14:31:34.054Z"
+    },
+    "TEST": {
+      "tier": "1-Day Pass",
+      "durationHours": 24,
+      "isActivated": false,
+      "activatedAt": null,
+      "expires": "Not Activated",
+      "status": "active",
+      "hwid": null,
+      "activeDevices": [],
+      "deviceLimit": "unlimited",
+      "notes": "",
+      "seller": "ZEROX PANEL OFFICIAL",
+      "createdBy": "Owner",
+      "createdAt": "2026-11-27T16:44:40.755Z"
     }
   }
 }
